@@ -1,0 +1,64 @@
+html {
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: #eaeded;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+}
+.bg-dark{
+    background: #232f3e;
+}
+.bg-darker{
+    background: #1D2733;
+}
+
+.bg-withe{
+    background: #fff;
+}
+
+#top-image-container{
+    background-color:#6ac1d4 ;
+}
+
+#card-box{
+    background: #6ac1d4;
+    background: -moz-linear-gradient(top, #6ac1d4 0%, #eaeded 100%);
+    background: -webkit-linear-gradient(top, #6ac1d4 0%,#eaeded 100%);
+    background: linear-gradient(to bottom, #6ac1d4 0%,#eaeded 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6ac1d4', endColorstr='#eaeded',GradientType=0 );
+}
+
+
+
+.card{
+    min-height: 22rem;
+    border-radius: 0 !important;
+}
+
+#footer{
+    color: #fff;
+}
+
+.bg-dark-100{
+    background: #232F3E;
+}
+.bg-dark-80{
+    background: #253140;
+}
+.bg-dark-40{
+    background: #273342;
+}
+.bg-dark-20{
+    background: #293544;
+}
+
+.bg-dark-blue{
+    background: #2A4D54;
+}
+
+h1 a.badge-pill, h3 a.badge-pill, h4 a.badge-pill{
+    font-size: 0.5rem;
+}
